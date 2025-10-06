@@ -1,0 +1,10 @@
+{
+  "alumnos": [
+    {
+      "nombre": "javier",
+      "correo": "javier@gmail.com",
+      "curso": "2ºDAW",
+      "id": "97e4"
+    }
+  ]
+}
