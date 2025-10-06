@@ -60,7 +60,7 @@ export default function Aplicacion() {
 
   return (
     <div style={{ maxWidth: 500, margin: "20px auto", padding: 16 }}>
-      <h1>Alumnos</h1>
+      <h1>Alumnoss</h1>
 
       <FormularioAlumno
         nombre={nombre}
